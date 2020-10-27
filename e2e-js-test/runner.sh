@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+pwd
 code=0
 testfile=$1
 files=$testfile
